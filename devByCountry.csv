@@ -1,0 +1,723 @@
+"","Category","x"
+"389","Ming",1102
+"365","Mamluks",339
+"171","England",338
+"468","Ottomans",325
+"108","Castile",276
+"334","Lithuania",268
+"686","Vijayanagar",263
+"187","France",252
+"28","Aragon",221
+"252","Jaunpur",212
+"55","Bahmanis",201
+"412","Muscovy",197
+"681","Uzbek",189
+"493","Poland",183
+"65","Bengal",177
+"231","Hungary",176
+"684","Venice",175
+"45","Austria",171
+"502","Qara Qoyunlu",161
+"92","Burgundy",147
+"585","Timurids",142
+"495","Portugal",136
+"50","Ayutthaya",134
+"203","Great Horde",131
+"441","Novgorod",131
+"315","Korea",130
+"160","Denmark",128
+"599","Transoxiana",127
+"75","Bohemia",119
+"561","Sweden",119
+"153","Dai Viet",118
+"452","Oirat",117
+"295","Khmer",114
+"664","Tunis",111
+"288","Kazan",109
+"361","Mali",108
+"545","Sirhind",105
+"324","Lan Xang",103
+"422","Naples",102
+"574","Teutonic Order",99
+"402","Mongolia",96
+"12","Ajam",93
+"439","Nogai",92
+"354","Majapahit",87
+"404","Morocco",87
+"388","Milan",86
+"440","Norway",84
+"113","Chagatai",83
+"196","Genoa",80
+"532","Scotland",79
+"207","Gujarat",76
+"86","Brunei",75
+"257","Jianzhou",75
+"529","Savoy",75
+"147","Crimea",73
+"500","Provence",73
+"176","Ethiopia",69
+"558","Sunda",69
+"82","Brandenburg",65
+"578","The Papal State",63
+"47","Ava",62
+"314","Korchin",62
+"358","Malacca",61
+"710","Yarkand",60
+"364","Malwa",59
+"7","Adal",58
+"158","Delhi",58
+"335","Livonian Order",58
+"591","Tlemcen",58
+"180","Fars",57
+"184","Florence",57
+"311","Kongo",57
+"81","Brabant",56
+"460","Orissa",56
+"27","Aq Qoyunlu",55
+"85","Brittany",55
+"323","Lan Na",55
+"382","Mewar",55
+"552","Songhai",53
+"51","Aztec",52
+"562","Switzerland",51
+"461","Orleans",50
+"543","Sindh",48
+"9","Afghanistan",47
+"214","Haixi",47
+"486","Pegu",47
+"534","Serbia",47
+"414","Mutapa",46
+"691","Wallachia",46
+"57","Baluchistan",44
+"226","Hormuz",44
+"302","Kilwa",44
+"165","Donghai",43
+"279","Karaman",43
+"183","Flanders",42
+"224","Holland",42
+"253","Jenné",42
+"674","Udege",42
+"115","Champa",41
+"148","Croatia",41
+"227","Hosokawa",41
+"413","Mushasha",41
+"531","Saxony",41
+"648","Tribal land of  Powhatan",41
+"577","The Palatinate",40
+"13","Ajuuraan",39
+"395","Moldavia",39
+"556","Sukhothai",39
+"584","Timbuktu",39
+"98","Byzantium",38
+"406","Muisca",38
+"408","Multan",38
+"376","Mazovia",37
+"480","Pasai",37
+"626","Tribal land of  Lenape",36
+"661","Tsang",36
+"503","Quito",35
+"19","Andhra",34
+"220","Hejaz",34
+"516","Ryazan",34
+"632","Tribal land of  Mikmaq",34
+"708","Yao",34
+"149","Cusco",33
+"582","Thuringia",33
+"675","Uesugi",33
+"87","Brunswick",32
+"140","Colima",32
+"337","Lorraine",32
+"59","Banjar",31
+"285","Katsina",31
+"523","Sambas",31
+"202","Granada",30
+"293","Kham",30
+"325","Landshut",30
+"569","Tarascan",30
+"603","Tribal land of  Algonquin",30
+"694","Warsangali",30
+"35","Armagnac",29
+"117","Charca",29
+"194","Gelre",29
+"197","Georgia",29
+"237","Imereti",29
+"319","Kutai",29
+"331","Ligor",29
+"459","Opole",29
+"706","Yamana",29
+"8","Aden",28
+"272","Kanem Bornu",28
+"411","Münster",28
+"519","Sakalava",28
+"559","Sus",28
+"589","Tlapanec",28
+"699","Wolgast",28
+"11","Air",27
+"37","Assam",27
+"142","Cologne",27
+"159","Deli",27
+"330","Liege",27
+"431","Nevers",27
+"476","Palembang",27
+"541","Siak",27
+"590","Tlaxcala",27
+"181","Ferrara",26
+"294","Khandesh",26
+"490","Perm",26
+"538","Shirvan",26
+"655","Tribal land of  Wampanoag",26
+"714","Yemen",26
+"137","Cocomes",25
+"240","Ingolstadt",25
+"274","Kano",25
+"704","Xiu",25
+"66","Benin",24
+"126","Chimu",24
+"189","Friesland",24
+"259","Jolof",24
+"377","Mecklenburg",24
+"409","Munich",24
+"472","Pacajes",24
+"595","Tondo",24
+"613","Tribal land of  Cofitachequi",24
+"614","Tribal land of  Cree",24
+"656","Tribal land of  Wichita",24
+"720","Zazzau",24
+"169","Dulkadir",23
+"222","Hesse",23
+"375","Mazandaran",23
+"437","Nivkh",23
+"470","Oyo",23
+"563","Tafilalt",23
+"668","Tver",23
+"68","Berg",22
+"79","Bosnia",22
+"338","Luba",22
+"355","Makassar",22
+"659","Trier",22
+"715","Yeren",22
+"719","Zapotec",22
+"16","Alodia",21
+"36","Ashikaga",21
+"112","Chactemal",21
+"190","Garha",21
+"225","Holstein",21
+"289","Kazembe",21
+"349","Maguindanao",21
+"372","Matlatzinca",21
+"473","Pagarruyung",21
+"551","Solon",21
+"554","Stettin",21
+"602","Tribal land of  Abenaki",21
+"629","Tribal land of  Maliseet",21
+"29","Arakan",20
+"89","Buha",20
+"134","Circassia",20
+"141","Colla",20
+"297","Khorasan",20
+"341","Lunda",20
+"369","Maravi",20
+"371","Marrakesh",20
+"455","Oman",20
+"484","Pattani",20
+"501","Pskov",20
+"507","Rassids",20
+"542","Siena",20
+"587","Tirhut",20
+"679","Utrecht",20
+"67","Berau",19
+"69","Betsimisaraka",19
+"72","Bitlis",19
+"80","Bourbonnais",19
+"199","Glogow",19
+"209","Haasa",19
+"215","Hamburg",19
+"281","Kashmir",19
+"316","Kotte",19
+"367","Mantua",19
+"401","Mong Yang",19
+"415","Mysore",19
+"443","Nuremberg",19
+"469","Ouchi",19
+"689","Wagadugu",19
+"700","Wurttemberg",19
+"5","Aceh",18
+"105","Candar",18
+"185","Foix",18
+"188","Frankfurt",18
+"345","Luwu",18
+"396","Mombasa",18
+"475","Palawa",18
+"515","Rwanda",18
+"615","Tribal land of  Erie",18
+"44","Augsburg",17
+"60","Barus",17
+"77","Bone",17
+"102","Calchaqui",17
+"267","Kalpi",17
+"339","Lübeck",17
+"348","Magdeburg",17
+"353","Mainz",17
+"362","Malindi",17
+"370","Marehan",17
+"379","Medri Bahri",17
+"611","Tribal land of  Chickasaw",17
+"621","Tribal land of  Innu",17
+"653","Tribal land of  Susquehannock",17
+"703","Xalisco",17
+"711","Yaroslavl",17
+"713","Yatenga",17
+"52","Baden",16
+"84","Bremen",16
+"101","Cajamarca",16
+"104","Can Pech",16
+"193","Gazikumukh",16
+"217","Hatakeyama",16
+"238","Imerina",16
+"280","Kasanje",16
+"317","Kuba",16
+"352","Mahra",16
+"483","Patna",16
+"525","Samtskhe",16
+"536","Shiba",16
+"550","Sofala",16
+"555","Strasbourg",16
+"641","Tribal land of  Osheaga",16
+"652","Tribal land of  Stadacona",16
+"702","Wurzburg",16
+"150","Cyprus",15
+"212","Hadramut",15
+"221","Herzegovina",15
+"245","Itza",15
+"290","Kedah",15
+"306","Koch",15
+"378","Medina",15
+"393","Mogadishu",15
+"397","Mong Kawng",15
+"597","Totonac",15
+"639","Tribal land of  Oneota",15
+"645","Tribal land of  Peoria",15
+"672","Tzotzil",15
+"676","Ulm",15
+"716","Yokotan",15
+"2","Aachen",14
+"91","Bunyoro",14
+"136","Cleves",14
+"139","Coixtlahuaca",14
+"157","Dawasir",14
+"229","Hsipaw",14
+"263","Kaffa",14
+"278","Karagwe",14
+"284","Kathmandu",14
+"298","Kiche",14
+"310","Kong",14
+"336","Loango",14
+"340","Lucca",14
+"343","Lüneburg",14
+"344","Luristan",14
+"347","Madyas",14
+"505","Ragusa",14
+"522","Salzburg",14
+"547","Sistan",14
+"570","Taungu",14
+"571","Telingana",14
+"612","Tribal land of  Chisca",14
+"622","Tribal land of  Joara",14
+"630","Tribal land of  Mescalero",14
+"673","U",14
+"70","Biapas",13
+"154","Damot",13
+"162","Dhundhar",13
+"166","Dongola",13
+"195","Geneva",13
+"200","Gorkha",13
+"228","Hsenwi",13
+"232","Huyla",13
+"261","Junagarh",13
+"276","Kara Del",13
+"313","Konstanz",13
+"320","Kutch",13
+"332","Limbuwan",13
+"342","Lundu",13
+"380","Memmingen",13
+"386","Mikhlaf",13
+"429","Ndongo",13
+"509","Regensburg",13
+"573","Ternate",13
+"581","Three Leagues",13
+"583","Tidore",13
+"594","Tonala",13
+"644","Tribal land of  Penobscot",13
+"685","Verden",13
+"705","Yaka",13
+"64","Beloozero",12
+"76","Bologna",12
+"78","Bonoman",12
+"88","Buganda",12
+"96","Butua",12
+"167","Dortmund",12
+"182","Fezzan",12
+"198","Gilan",12
+"210","Hadiya",12
+"239","Indrapura",12
+"248","Jambi",12
+"256","Jharkhand",12
+"265","Kale",12
+"271","Kandy",12
+"275","Kaqchikel",12
+"374","Maynila",12
+"392","Mixtec",12
+"398","Mong Mao",12
+"403","Montferrat",12
+"442","Nupe",12
+"508","Ratanpur",12
+"572","Teotitlan",12
+"600","Trebizond",12
+"619","Tribal land of  Hathawekela",12
+"627","Tribal land of  Lipan",12
+"638","Tribal land of  Ojibwe",12
+"643","Tribal land of  Pawnee",12
+"678","Urbino",12
+"683","Venad",12
+"695","Welayta",12
+"14","Albania",11
+"25","Antemoro",11
+"40","Athens",11
+"63","Beja",11
+"74","Blambangan",11
+"173","Eora",11
+"174","Epirus",11
+"179","Fadl",11
+"201","Goslar",11
+"206","Guge",11
+"236","Imagawa",11
+"291","Kelantan",11
+"399","Mong Nai",11
+"400","Mong Pai",11
+"418","Najd",11
+"481","Passau",11
+"499","Prome",11
+"512","Riga",11
+"521","Saluzzo",11
+"557","Sulu",11
+"576","The Knights",11
+"592","Toki",11
+"608","Tribal land of  Cahokia",11
+"624","Tribal land of  Kispoko",11
+"646","Tribal land of  Pequot",11
+"649","Tribal land of  Salish",11
+"663","Tumbuka",11
+"693","Wanka",11
+"701","Wurundjeri",11
+"46","Auvergne",10
+"53","Baghelkhand",10
+"211","Hadoti",10
+"270","Kamilaroi",10
+"299","Kikondja",10
+"383","Mewat",10
+"417","Nagaur",10
+"432","Ngapuhi",10
+"435","Ngati Ranginui",10
+"436","Ngati Toa",10
+"446","Oda",10
+"474","Pahang",10
+"506","Ramazan",10
+"514","Rothenburg",10
+"553","Stadacona",10
+"565","Tainui",10
+"628","Tribal land of  Mahican",10
+"10","Ainu",9
+"20","Ando",9
+"32","Ardabil",9
+"56","Bali",9
+"93","Burundi",9
+"94","Busoga",9
+"124","Chichimeca",9
+"130","Chokwe",9
+"133","Cilli",9
+"156","Date",9
+"204","Guamar",9
+"262","Kachar",9
+"268","Kalundwe",9
+"277","Karabakh",9
+"301","Kildare",9
+"321","Ladakh",9
+"357","Makuria",9
+"423","Nassau",9
+"444","Nyoongah",9
+"447","Odoyev",9
+"465","Otomi",9
+"466","Otomo",9
+"535","Shammar",9
+"537","Shimazu",9
+"539","Shoni",9
+"567","Takeda",9
+"579","Theodoro",9
+"598","Touggourt",9
+"609","Tribal land of  Chalaghawtha",9
+"616","Tribal land of  Fox",9
+"623","Tribal land of  Kaskaskia",9
+"650","Tribal land of  Shoshone",9
+"654","Tribal land of  Tuscarora",9
+"662","Tsutsui",9
+"18","Amago",8
+"24","Ansbach",8
+"41","Attignawantan",8
+"71","Bishnupur",8
+"95","Buton",8
+"163","Dithmarschen",8
+"164","Djerid",8
+"208","Gwalior",8
+"300","Kikuchi",8
+"307","Kochin",8
+"346","Madurai",8
+"407","Mulhouse",8
+"421","Nanbu",8
+"433","Ngati Awa",8
+"438","Nkore",8
+"458","Onondaga",8
+"477","Palitana",8
+"482","Pate",8
+"491","Perugia",8
+"513","Rostov",8
+"524","Samoa",8
+"548","Sligo",8
+"580","Thomond",8
+"596","Tonga",8
+"601","Trent",8
+"671","Tyrone",8
+"677","Ulster",8
+"23","Anizah",7
+"33","Ardalan",7
+"48","Avaria",7
+"61","Bastar",7
+"103","Calicut",7
+"118","Charrua",7
+"170","East Frisia",7
+"172","Ennarea",7
+"219","Hawai'i",7
+"243","Isshiki",7
+"244","Ito",7
+"287","Kaurna",7
+"309","Kolathunad",7
+"312","Kono",7
+"351","Mahican",7
+"356","Makua",7
+"427","Navarra",7
+"434","Ngati Kahungunu",7
+"454","Oldenburg",7
+"462","Ormond",7
+"526","Sarig Yogir",7
+"593","Tokugawa",7
+"647","Tribal land of  Potawatomi",7
+"666","Tupiniquim",7
+"687","Viti Levu",7
+"15","Algonquin",6
+"21","Anhalt",6
+"42","Attigneenongnahac",6
+"43","Attiwandaron",6
+"54","Baglana",6
+"58","Bamberg",6
+"62","Bayreuth",6
+"97","Butuan",6
+"100","Cahokia",6
+"110","Cebu",6
+"111","Chachapoya",6
+"121","Cheyenne",6
+"131","Chorti",6
+"135","Clanricarde",6
+"145","Coweta",6
+"151","Dagbon",6
+"161","Desmond",6
+"178","Fada N'gourma",6
+"186","Fox",6
+"223","Hisn Kayfa",6
+"230","Huastec",6
+"234","Ichma",6
+"246","Jaffna",6
+"249","Jangladesh",6
+"251","Jarai",6
+"305","Kitabatake",6
+"308","Koho",6
+"328","Leinster",6
+"350","Mahafaly",6
+"394","Mohawk",6
+"405","Muang Phuan",6
+"416","Mzab",6
+"419","Najran",6
+"428","Naxos",6
+"449","Ogaadeen",6
+"450","Ogasawara",6
+"453","Ojibwe",6
+"457","Oneota",6
+"478","Pangasinan",6
+"489","Pequot",6
+"497","Potiguara",6
+"510","Rewa Kantha",6
+"511","Rhade",6
+"518","Sadiya",6
+"527","Satake",6
+"568","Tapuia",6
+"575","The Isles",6
+"604","Tribal land of  Altamaha",6
+"605","Tribal land of  Apache",6
+"606","Tribal land of  Blackfoot",6
+"607","Tribal land of  Caddo",6
+"610","Tribal land of  Cherokee",6
+"618","Tribal land of  Hasinai",6
+"620","Tribal land of  Ichisi",6
+"631","Tribal land of  Miami",6
+"635","Tribal land of  Natchitoches",6
+"637","Tribal land of  Nehiyaw",6
+"640","Tribal land of  Osage",6
+"658","Tribal land of  Yokuts",6
+"669","Tyo",6
+"680","Utsunomiya",6
+"688","Wadai",6
+"698","Wichiyena",6
+"6","Acoma",5
+"22","Anilco",5
+"34","Arendaronon",5
+"39","Atahachi",5
+"49","Awngthim",5
+"83","Bregenz",5
+"90","Bundelkhand",5
+"109","Cayuga",5
+"116","Chanda",5
+"120","Cherokee",5
+"122","Chiaha",5
+"123","Chiba",5
+"125","Chickasaw",5
+"127","Chinook",5
+"129","Choctaw",5
+"138","Cofitachequi",5
+"144","Coosa",5
+"155","Dang",5
+"175","Erie",5
+"192","Garjat",5
+"218","Hathawekela",5
+"242","Isleta",5
+"255","Jhalavad",5
+"258","Joara",5
+"260","Jumla",5
+"266","Kalinjar",5
+"273","Kangra",5
+"282","Kasihta",5
+"283","Kaskaskia",5
+"286","Kaua'i",5
+"326","Larrakia",5
+"329","Lenape",5
+"359","Maldives",5
+"360","Malgana",5
+"366","Manipur",5
+"373","Maui",5
+"385","Mianjin",5
+"387","Mikmaq",5
+"425","Natchitoches",5
+"445","O'ahu",5
+"448","Offaly",5
+"451","Ohkay Owingeh",5
+"456","Oneida",5
+"464","Osheaga",5
+"487","Penobscot",5
+"494","Porbandar",5
+"498","Powhatan",5
+"504","Quizquiz",5
+"517","Ryukyu",5
+"520","Salish",5
+"530","Saxe-Lauenburg",5
+"564","Tahontaenrat",5
+"586","Tionontate",5
+"588","Tiwi",5
+"633","Tribal land of  Mississage",5
+"667","Tuscarora",5
+"670","Tyrconnell",5
+"682","Vanua Levu",5
+"692","Wampanoag",5
+"696","Wenro",5
+"718","Yolngu",5
+"721","Zia",5
+"250","Janjiro",4
+"292","Keonhjar",4
+"391","Mississage",4
+"410","Munster",4
+"426","Navajo",4
+"485","Pawnee",4
+"496","Potawatomi",4
+"533","Seneca",4
+"549","So",4
+"642","Tribal land of  Ottawa",4
+"665","Tupinamba",4
+"690","Waitaha",4
+"3","Abenaki",3
+"4","Abihka",3
+"17","Altamaha",3
+"26","Apache",3
+"30","Arapaho",3
+"31","Arawak",3
+"38","Assiniboine",3
+"73","Blackfoot",3
+"99","Caddo",3
+"106","Carib",3
+"107","Casqui",3
+"114","Chalaghawtha",3
+"119","Chavchuveny",3
+"128","Chisca",3
+"132","Chukchi",3
+"143","Comanche",3
+"146","Cree",3
+"152","Dahomey",3
+"168","Doti",3
+"177","Etowah",3
+"191","Garhwal",3
+"205","Guarani",3
+"213","Haida",3
+"216","Hasinai",3
+"233","Ichisi",3
+"235","Idar",3
+"241","Innu",3
+"247","Jaisalmer",3
+"254","Jeypore",3
+"264","Kalahandi",3
+"269","Kamchadals",3
+"296","Khodynt",3
+"303","Kiowa",3
+"304","Kispoko",3
+"318","Kumaon",3
+"322","Lakota",3
+"327","Lau",3
+"333","Lipan",3
+"363","Maliseet",3
+"368","Mapuche",3
+"381","Mescalero",3
+"384","Miami",3
+"390","Miskito",3
+"420","Nakawe",3
+"424","Natchez",3
+"430","Nehiyaw",3
+"463","Osage",3
+"467","Ottawa",3
+"471","Pacaha",3
+"479","Parlakhimidi",3
+"488","Peoria",3
+"492","Pima",3
+"528","Satapo",3
+"540","Shoshone",3
+"544","Sioux",3
+"546","Sirmur",3
+"560","Susquehannock",3
+"566","Tairona",3
+"617","Tribal land of  Haida",3
+"625","Tribal land of  Lakota",3
+"634","Tribal land of  Mohawk",3
+"636","Tribal land of  Navajo",3
+"651","Tribal land of  Sioux",3
+"657","Tribal land of  Wichiyena",3
+"660","Tripura",3
+"697","Wichita",3
+"707","Yanuwa",3
+"709","Yaqui",3
+"712","Yas",3
+"717","Yokuts",3
+"722","Zuni",3
+"1","",NA
