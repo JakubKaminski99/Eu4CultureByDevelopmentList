@@ -16,9 +16,15 @@ tables <- page %>% html_table(fill=TRUE)
 tableP <- tables[[1]]
 
 ecopol <- merge(tableE, tableP, by=c("ID")) 
-ecopol <- ecopol[c(3,11,13)]
+ecopolCulture <- ecopol[c(3,13)]
 
-culturePower <- aggregate(ecopol$Development, by=list(Category=ecopol$Culture), FUN=sum)
+culturePower <- aggregate(ecopolCulture$Development, by=list(Category=ecopolCulture$Culture), FUN=sum)
 culturePower <- culturePower[order(culturePower$x,decreasing = TRUE),]
 
+ecopolGroup <- ecopol[c(3,14)]
+cultureGroupPower <- aggregate(ecopolGroup$Development, by=list(Category=ecopolGroup$"Culture Group"), FUN=sum)
+cultureGroupPower <- cultureGroupPower[order(cultureGroupPower$x,decreasing = TRUE),]
 
+ecopolOwner <- ecopol[c(3,11)]
+owner <- aggregate(ecopolOwner$Development, by=list(Category=ecopolOwner$"Owner (1444)"), FUN=sum)
+owner <- owner[order(owner$x,decreasing = TRUE),]
