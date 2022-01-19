@@ -1,0 +1,723 @@
+"","Culture Group","Total Development","Culture","Total Development","Country","Total Development"
+"1","Germanic",1482,"Turkish",273,"Ming",1102
+"2","Malay",1179,"Francien",258,"Mamluks",339
+"3","Chinese",1060,"Jurchen",240,"England",338
+"4","Levantine",1031,"Muscovite",230,"Ottomans",325
+"5","French",866,"English",203,"Castile",276
+"6","Latin",767,"Greek",194,"Lithuania",268
+"7","Altaic",715,"Polish",191,"Vijayanagar",263
+"8","East Slavic",682,"Bornean",188,"France",252
+"9","Iranian",612,"Occitan",186,"Aragon",221
+"10","Iberian",589,"Marathi",181,"Jaunpur",212
+"11","Western Aryan",515,"Egyptian",178,"Bahmanis",201
+"12","Caribbean",485,"Rhenish",178,"Muscovy",197
+"13","Eastern Aryan",461,"Taino",176,"Uzbek",189
+"14","Dravidian",452,"Bengali",171,"Poland",183
+"15","Tatar",442,"Saxon",165,"Bengal",177
+"16","Evenki",422,"Sumatran",164,"Hungary",176
+"17","Tai",413,"Filipino",161,"Venice",175
+"18","Hindustani",401,"Siamese",158,"Austria",171
+"19","Maghrebi",377,"Kannada",155,"Qara Qoyunlu",161
+"20","Japanese",360,"Togoku",154,"Burgundy",147
+"21","West Slavic",358,"Lokono",145,"Timurids",142
+"22","Nordic",345,"Saigoku",145,"Portugal",136
+"23","Cushitic",319,"Ge",143,"Ayutthaya",134
+"24","Sahelian",295,"Swabian",143,"Great Horde",131
+"25","Central Algonquian",292,"Panjabi",142,"Novgorod",131
+"26","South Slavic",273,"Khmer",139,"Korea",130
+"27","Kongo",271,"Carib",137,"Denmark",128
+"28","British",270,"Persian",137,"Transoxiana",127
+"29","Eastern Algonquian",260,"Novgorodian",136,"Bohemia",119
+"30","Aboriginal",255,"Ruthenian",136,"Sweden",119
+"31","Southern African",254,"Syrian",136,"Dai Viet",118
+"32","Muskogean",253,"Somali",135,"Oirat",117
+"33","Andean",243,"Telugu",132,"Khmer",114
+"34","Carpathian",241,"Danish",129,"Tunis",111
+"35","Byzantine",230,"Lower Saxon",129,"Kazan",109
+"36","Pacific",222,"Portuguese",129,"Mali",108
+"37","Mande",216,"Uzbek",128,"Sirhind",105
+"38","East Bantu",214,"Austrian",127,"Lan Xang",103
+"39","Mon-Khmer",206,"Kazakh",127,"Naples",102
+"40","Caucasian",201,"Malayan",127,"Teutonic Order",99
+"41","Iroquoian",188,"Tamil",126,"Mongolia",96
+"42","Tupi",184,"Moroccan",125,"Ajam",93
+"43","Je",174,"Korean",124,"Nogai",92
+"44","Mayan",173,"Walloon",124,"Majapahit",87
+"45","Tibetan",168,"Burgundian",123,"Morocco",87
+"46","Burman",162,"Rajasthani",122,"Milan",86
+"47","Central American",162,"Bavarian",120,"Norway",84
+"48","West African",154,"Sulawesi",119,"Chagatai",83
+"49","Chibchan",149,"Tupinamba",119,"Genoa",80
+"50","Caddoan",143,"Wu",114,"Scotland",79
+"51","Celtic",128,"Berber",111,"Gujarat",76
+"52","Baltic",125,"Castilian",111,"Brunei",75
+"53","Korean",124,"Hindavi",111,"Jianzhou",75
+"54","Sonoran",120,"Jianghuai",110,"Savoy",75
+"55","Ugric",120,"Andalusian",109,"Crimea",73
+"56","Aridoamerican",112,"Czech",104,"Provence",73
+"57","Araucanian",110,"Aimara",103,"Ethiopia",69
+"58","Central Indian",109,"Polynesian",103,"Sunda",69
+"59","Penutian",106,"Catalan",101,"Brandenburg",65
+"60","Great Lakes",104,"Vietnamese",101,"The Papal State",63
+"61","Sudanese",83,"Mashriqi",99,"Ava",62
+"62","Otomanguean",76,"Javanese",98,"Korchin",62
+"63","Apachean",69,"Lao",98,"Malacca",61
+"64","Siouan",69,"Dutch",96,"Yarkand",60
+"65","Plains Algonquian",54,"Neapolitan",96,"Malwa",59
+"66","Na-Déné",52,"Venetian",96,"Adal",58
+"67","Eskaleut",35,"Zhongyuan",96,"Delhi",58
+"68","Kamchatkan",30,"Khalkha",95,"Livonian Order",58
+"69","Maranón",22,"Yemeni",95,"Tlemcen",58
+"70","Matacoan",18,"Flemish",94,"Fars",57
+"71","",NA,"Tibetan",94,"Florence",57
+"72",NA,NA,"Tunisian",94,"Kongo",57
+"73",NA,NA,"Lombard",93,"Brabant",56
+"74",NA,NA,"Swahili",93,"Orissa",56
+"75",NA,NA,"Azerbaijani",92,"Aq Qoyunlu",55
+"76",NA,NA,"Aztec",91,"Brittany",55
+"77",NA,NA,"Swiss",91,"Lan Na",55
+"78",NA,NA,"Tuscan",91,"Mewar",55
+"79",NA,NA,"Afghan",90,"Songhai",53
+"80",NA,NA,"Bihari",90,"Aztec",52
+"81",NA,NA,"Swedish",90,"Switzerland",51
+"82",NA,NA,"Uyghur",89,"Orleans",50
+"83",NA,NA,"Irish",88,"Sindh",48
+"84",NA,NA,"Kurdish",88,"Afghanistan",47
+"85",NA,NA,"Xibei",88,"Haixi",47
+"86",NA,NA,"Burmese",87,"Pegu",47
+"87",NA,NA,"Gascon",86,"Serbia",47
+"88",NA,NA,"Pomeranian",86,"Mutapa",46
+"89",NA,NA,"Romanian",85,"Wallachia",46
+"90",NA,NA,"Mishar",84,"Baluchistan",44
+"91",NA,NA,"Malagasy",83,"Hormuz",44
+"92",NA,NA,"Romagnol",83,"Kilwa",44
+"93",NA,NA,"Serbian",83,"Donghai",43
+"94",NA,NA,"Avadhi",82,"Karaman",43
+"95",NA,NA,"Crimean",82,"Flanders",42
+"96",NA,NA,"Yucatec",82,"Holland",42
+"97",NA,NA,"Muisca",81,"Jenné",42
+"98",NA,NA,"Hausa",80,"Udege",42
+"99",NA,NA,"Prussian",80,"Champa",41
+"100",NA,NA,"Byelorussian",78,"Croatia",41
+"101",NA,NA,"Mongol",78,"Hosokawa",41
+"102",NA,NA,"Kongolese",77,"Mushasha",41
+"103",NA,NA,"Ryazanian",76,"Saxony",41
+"104",NA,NA,"Zhili",75,"Tribal land of  Powhatan",41
+"105",NA,NA,"Bedouin",74,"The Palatinate",40
+"106",NA,NA,"Georgian",74,"Ajuuraan",39
+"107",NA,NA,"Khorasani",74,"Moldavia",39
+"108",NA,NA,"Quechua",74,"Sukhothai",39
+"109",NA,NA,"Shan",74,"Timbuktu",39
+"110",NA,NA,"Franconian",73,"Byzantium",38
+"111",NA,NA,"Amhara",72,"Muisca",38
+"112",NA,NA,"Kazani",72,"Multan",38
+"113",NA,NA,"Min",72,"Mazovia",37
+"114",NA,NA,"Moluccan",72,"Pasai",37
+"115",NA,NA,"Norwegian",72,"Tribal land of  Lenape",36
+"116",NA,NA,"Sichuanese",72,"Tsang",36
+"117",NA,NA,"Umbrian",72,"Quito",35
+"118",NA,NA,"Tuareg",71,"Andhra",34
+"119",NA,NA,"Hungarian",70,"Hejaz",34
+"120",NA,NA,"Cham",69,"Ryazan",34
+"121",NA,NA,"Sundanese",69,"Tribal land of  Mikmaq",34
+"122",NA,NA,"Westphalian",69,"Yao",34
+"123",NA,NA,"Armenian",68,"Cusco",33
+"124",NA,NA,"Jin",68,"Thuringia",33
+"125",NA,NA,"Luba",68,"Uesugi",33
+"126",NA,NA,"Oirat",68,"Brunswick",32
+"127",NA,NA,"Gujarati",67,"Colima",32
+"128",NA,NA,"Lithuanian",67,"Lorraine",32
+"129",NA,NA,"Mon",67,"Banjar",31
+"130",NA,NA,"Nogai",66,"Katsina",31
+"131",NA,NA,"Piman",66,"Sambas",31
+"132",NA,NA,"Guarani",65,"Granada",30
+"133",NA,NA,"Maori",65,"Kham",30
+"134",NA,NA,"Kuric",64,"Landshut",30
+"135",NA,NA,"Bulgarian",63,"Tarascan",30
+"136",NA,NA,"Hejazi",62,"Tribal land of  Algonquin",30
+"137",NA,NA,"Korchin",62,"Warsangali",30
+"138",NA,NA,"Nguni",62,"Armagnac",29
+"139",NA,NA,"Kyushuan",61,"Charca",29
+"140",NA,NA,"Sicilian",61,"Gelre",29
+"141",NA,NA,"Gondi",60,"Georgia",29
+"142",NA,NA,"Buryat",59,"Imereti",29
+"143",NA,NA,"Nubian",59,"Kutai",29
+"144",NA,NA,"Astrakhani",58,"Ligor",29
+"145",NA,NA,"Shona",58,"Opole",29
+"146",NA,NA,"Nusa Tenggara",57,"Yamana",29
+"147",NA,NA,"Shandong",57,"Aden",28
+"148",NA,NA,"Cantonese",56,"Kanem Bornu",28
+"149",NA,NA,"Evenk",56,"Münster",28
+"150",NA,NA,"Acehnese",55,"Sakalava",28
+"151",NA,NA,"Breton",55,"Sus",28
+"152",NA,NA,"Khon Muang",55,"Tlapanec",28
+"153",NA,NA,"Pawnee",55,"Wolgast",28
+"154",NA,NA,"Yoruba",55,"Air",27
+"155",NA,NA,"Nyasa",54,"Assam",27
+"156",NA,NA,"Uralic",54,"Cologne",27
+"157",NA,NA,"Malvi",53,"Deli",27
+"158",NA,NA,"Nepali",53,"Liege",27
+"159",NA,NA,"Khaleeji",52,"Nevers",27
+"160",NA,NA,"Leonese",52,"Palembang",27
+"161",NA,NA,"Mazandarani",52,"Siak",27
+"162",NA,NA,"Piedmontese",52,"Tlaxcala",27
+"163",NA,NA,"Catawba",50,"Ferrara",26
+"164",NA,NA,"Songhai",50,"Khandesh",26
+"165",NA,NA,"Illini",49,"Perm",26
+"166",NA,NA,"Powhatan",49,"Shirvan",26
+"167",NA,NA,"Anishinabe",48,"Tribal land of  Wampanoag",26
+"168",NA,NA,"Iroquois",48,"Yemen",26
+"169",NA,NA,"Kanuri",48,"Cocomes",25
+"170",NA,NA,"Ligurian",48,"Ingolstadt",25
+"171",NA,NA,"Scottish",48,"Kano",25
+"172",NA,NA,"Silesian",48,"Xiu",25
+"173",NA,NA,"Sindhi",48,"Benin",24
+"174",NA,NA,"Algerian",47,"Chimu",24
+"175",NA,NA,"Baluchi",47,"Friesland",24
+"176",NA,NA,"Laurentian",47,"Jolof",24
+"177",NA,NA,"Rwandan",47,"Mecklenburg",24
+"178",NA,NA,"Khoisan",46,"Munich",24
+"179",NA,NA,"Omani",46,"Pacajes",24
+"180",NA,NA,"Kyrgyz",45,"Tondo",24
+"181",NA,NA,"Siberian",45,"Tribal land of  Cofitachequi",24
+"182",NA,NA,"Sidamo",45,"Tribal land of  Cree",24
+"183",NA,NA,"Vindhyan",45,"Tribal land of  Wichita",24
+"184",NA,NA,"Wichita",45,"Zazzau",24
+"185",NA,NA,"Mali",44,"Dulkadir",23
+"186",NA,NA,"Saurashtri",44,"Hesse",23
+"187",NA,NA,"Caddo",43,"Mazandaran",23
+"188",NA,NA,"Hubei",43,"Nivkh",23
+"189",NA,NA,"Slovak",43,"Oyo",23
+"190",NA,NA,"Transylvanian",43,"Tafilalt",23
+"191",NA,NA,"Abenaki",42,"Tver",23
+"192",NA,NA,"Anicinabe",42,"Berg",22
+"193",NA,NA,"Diaguita",42,"Bosnia",22
+"194",NA,NA,"Hakka",42,"Luba",22
+"195",NA,NA,"Shawnee",42,"Makassar",22
+"196",NA,NA,"Croatian",41,"Trier",22
+"197",NA,NA,"Delaware",41,"Yeren",22
+"198",NA,NA,"Gamilaraay",40,"Zapotec",22
+"199",NA,NA,"Highlander",40,"Alodia",21
+"200",NA,NA,"Salish",40,"Ashikaga",21
+"201",NA,NA,"Akan",39,"Chactemal",21
+"202",NA,NA,"Assamese",39,"Garha",21
+"203",NA,NA,"Cree",39,"Holstein",21
+"204",NA,NA,"Dagestani",39,"Kazembe",21
+"205",NA,NA,"Innu-Naskapi",39,"Maguindanao",21
+"206",NA,NA,"Malayalam",39,"Matlatzinca",21
+"207",NA,NA,"Mikmaq",39,"Pagarruyung",21
+"208",NA,NA,"Paman",39,"Solon",21
+"209",NA,NA,"Yamasee",39,"Stettin",21
+"210",NA,NA,"Caran",38,"Tribal land of  Abenaki",21
+"211",NA,NA,"Creek",38,"Tribal land of  Maliseet",21
+"212",NA,NA,"Dalmatian",38,"Arakan",20
+"213",NA,NA,"Ganda",38,"Buha",20
+"214",NA,NA,"Senegambian",38,"Circassia",20
+"215",NA,NA,"Bosnian",37,"Colla",20
+"216",NA,NA,"Chinook",37,"Khorasan",20
+"217",NA,NA,"Oriya",37,"Lunda",20
+"218",NA,NA,"Aragonese",36,"Maravi",20
+"219",NA,NA,"Bozo",36,"Marrakesh",20
+"220",NA,NA,"Ostyak",36,"Oman",20
+"221",NA,NA,"Bai",35,"Pattani",20
+"222",NA,NA,"Bashkir",35,"Pskov",20
+"223",NA,NA,"Natchez",35,"Rassids",20
+"224",NA,NA,"Purepecha",35,"Siena",20
+"225",NA,NA,"Chin",34,"Tirhut",20
+"226",NA,NA,"Garjati",34,"Utrecht",20
+"227",NA,NA,"Norman",34,"Berau",19
+"228",NA,NA,"Tepic",34,"Betsimisaraka",19
+"229",NA,NA,"Bambara",33,"Bitlis",19
+"230",NA,NA,"Chichimecan",33,"Bourbonnais",19
+"231",NA,NA,"Gan",33,"Glogow",19
+"232",NA,NA,"Mbundu",33,"Haasa",19
+"233",NA,NA,"Mossi",33,"Hamburg",19
+"234",NA,NA,"Nyoongah",33,"Kashmir",19
+"235",NA,NA,"Tionontate",33,"Kotte",19
+"236",NA,NA,"Xiang",33,"Mantua",19
+"237",NA,NA,"Highland Mayan",32,"Mong Yang",19
+"238",NA,NA,"Huarpe",32,"Mysore",19
+"239",NA,NA,"Latvian",32,"Nuremberg",19
+"240",NA,NA,"Luri",32,"Ouchi",19
+"241",NA,NA,"Charruan",31,"Wagadugu",19
+"242",NA,NA,"Frisian",31,"Wurttemberg",19
+"243",NA,NA,"Massachusset",31,"Aceh",18
+"244",NA,NA,"Sinhalese",31,"Candar",18
+"245",NA,NA,"Miskito",30,"Foix",18
+"246",NA,NA,"Papuan",30,"Frankfurt",18
+"247",NA,NA,"Patagonian",30,"Luwu",18
+"248",NA,NA,"Samoyed",30,"Mombasa",18
+"249",NA,NA,"Fulani",29,"Palawa",18
+"250",NA,NA,"Mescalero",29,"Rwanda",18
+"251",NA,NA,"Sardinian",29,"Tribal land of  Erie",18
+"252",NA,NA,"Slovene",29,"Augsburg",17
+"253",NA,NA,"Yokuts",29,"Barus",17
+"254",NA,NA,"Galician",28,"Bone",17
+"255",NA,NA,"Tigray",28,"Calchaqui",17
+"256",NA,NA,"Tlapanec",28,"Kalpi",17
+"257",NA,NA,"Yakut",28,"Lübeck",17
+"258",NA,NA,"Zhuang",28,"Magdeburg",17
+"259",NA,NA,"Choctaw",27,"Mainz",17
+"260",NA,NA,"Finnish",27,"Malindi",17
+"261",NA,NA,"Het",27,"Marehan",17
+"262",NA,NA,"Maipurean",27,"Medri Bahri",17
+"263",NA,NA,"Pontic",27,"Tribal land of  Chickasaw",17
+"264",NA,NA,"Soninke",27,"Tribal land of  Innu",17
+"265",NA,NA,"Tecos",27,"Tribal land of  Susquehannock",17
+"266",NA,NA,"Dyola",26,"Xalisco",17
+"267",NA,NA,"Estonian",26,"Yaroslavl",17
+"268",NA,NA,"Karelian",26,"Yatenga",17
+"269",NA,NA,"Kochi",26,"Baden",16
+"270",NA,NA,"Mixtec",26,"Bremen",16
+"271",NA,NA,"Pueblo",26,"Cajamarca",16
+"272",NA,NA,"Susquehannock",25,"Can Pech",16
+"273",NA,NA,"Yi",25,"Gazikumukh",16
+"274",NA,NA,"Yuchi",25,"Hatakeyama",16
+"275",NA,NA,"Blackfoot",24,"Imerina",16
+"276",NA,NA,"Chimuan",24,"Kasanje",16
+"277",NA,NA,"Huron",24,"Kuba",16
+"278",NA,NA,"Kulin",24,"Mahra",16
+"279",NA,NA,"Maliseet",24,"Patna",16
+"280",NA,NA,"Melanesian",24,"Samtskhe",16
+"281",NA,NA,"Myaamia",24,"Shiba",16
+"282",NA,NA,"Basque",23,"Sofala",16
+"283",NA,NA,"Turkmeni",23,"Strasbourg",16
+"284",NA,NA,"Athabascan",22,"Tribal land of  Osheaga",16
+"285",NA,NA,"Chickasaw",22,"Tribal land of  Stadacona",16
+"286",NA,NA,"Harari",22,"Wurzburg",16
+"287",NA,NA,"Zapotek",22,"Cyprus",15
+"288",NA,NA,"Chiwere",21,"Hadramut",15
+"289",NA,NA,"Dakota",21,"Herzegovina",15
+"290",NA,NA,"Kashmiri",21,"Itza",15
+"291",NA,NA,"Lipan",21,"Kedah",15
+"292",NA,NA,"Mapuche",21,"Koch",15
+"293",NA,NA,"Matlantzinca",21,"Medina",15
+"294",NA,NA,"Tungus",21,"Mogadishu",15
+"295",NA,NA,"Albanian",20,"Mong Kawng",15
+"296",NA,NA,"Arakanese",20,"Totonac",15
+"297",NA,NA,"Circassian",20,"Tribal land of  Oneota",15
+"298",NA,NA,"Lunda",20,"Tribal land of  Peoria",15
+"299",NA,NA,"Putun",20,"Tzotzil",15
+"300",NA,NA,"Masaba",19,"Ulm",15
+"301",NA,NA,"Shoshone",19,"Yokotan",15
+"302",NA,NA,"Yura",19,"Aachen",14
+"303",NA,NA,"Aleutian",18,"Bunyoro",14
+"304",NA,NA,"Bemba",18,"Cleves",14
+"305",NA,NA,"Chacoan",18,"Coixtlahuaca",14
+"306",NA,NA,"Chipewyan",18,"Dawasir",14
+"307",NA,NA,"Gunwinyguan",18,"Hsipaw",14
+"308",NA,NA,"Nakota",18,"Kaffa",14
+"309",NA,NA,"Palawa",18,"Karagwe",14
+"310",NA,NA,"Sami",18,"Kathmandu",14
+"311",NA,NA,"Takama",18,"Kiche",14
+"312",NA,NA,"Yukaghir",18,"Kong",14
+"313",NA,NA,"Afar",17,"Loango",14
+"314",NA,NA,"Inuit",17,"Lucca",14
+"315",NA,NA,"Mahican",17,"Lüneburg",14
+"316",NA,NA,"Pequot",17,"Luristan",14
+"317",NA,NA,"Yoron",17,"Madyas",14
+"318",NA,NA,"Jivaro",16,"Ragusa",14
+"319",NA,NA,"Kuba",16,"Salzburg",14
+"320",NA,NA,"Mahri",16,"Sistan",14
+"321",NA,NA,"Makua",16,"Taungu",14
+"322",NA,NA,"Mbangala",16,"Telingana",14
+"323",NA,NA,"Welsh",16,"Tribal land of  Chisca",14
+"324",NA,NA,"Ainu",15,"Tribal land of  Joara",14
+"325",NA,NA,"Chontales",15,"Tribal land of  Mescalero",14
+"326",NA,NA,"Jharkandi",15,"U",14
+"327",NA,NA,"Kachin",15,"Biapas",13
+"328",NA,NA,"Kamchatkan",15,"Damot",13
+"329",NA,NA,"Lacandon",15,"Dhundhar",13
+"330",NA,NA,"Sorbian",15,"Dongola",13
+"331",NA,NA,"Totonac",15,"Geneva",13
+"332",NA,NA,"Tunjur",15,"Gorkha",13
+"333",NA,NA,"Beja",14,"Hsenwi",13
+"334",NA,NA,"Bilala",14,"Huyla",13
+"335",NA,NA,"Miao",14,"Junagarh",13
+"336",NA,NA,"Pahari",14,"Kara Del",13
+"337",NA,NA,"Yaka",13,"Konstanz",13
+"338",NA,NA,"Eastern Apache",12,"Kutch",13
+"339",NA,NA,"Haida",12,"Limbuwan",13
+"340",NA,NA,"Nupe",12,"Lundu",13
+"341",NA,NA,"Bena",11,"Memmingen",13
+"342",NA,NA,"Cherokee",11,"Mikhlaf",13
+"343",NA,NA,"Acholi",10,"Ndongo",13
+"344",NA,NA,"Sawabantu",10,"Regensburg",13
+"345",NA,NA,"Bungi",9,"Ternate",13
+"346",NA,NA,"Chokwe",9,"Three Leagues",13
+"347",NA,NA,"Dagomba",9,"Tidore",13
+"348",NA,NA,"Gothic",9,"Tonala",13
+"349",NA,NA,"Guamares",9,"Tribal land of  Penobscot",13
+"350",NA,NA,"Icelandic",9,"Verden",13
+"351",NA,NA,"Jukun",9,"Yaka",13
+"352",NA,NA,"Kiowa",9,"Beloozero",12
+"353",NA,NA,"Mesquakie",9,"Bologna",12
+"354",NA,NA,"Osage",9,"Bonoman",12
+"355",NA,NA,"Otomi",9,"Buganda",12
+"356",NA,NA,"Plains Cree",9,"Butua",12
+"357",NA,NA,"Thagiicu",9,"Dortmund",12
+"358",NA,NA,"Wastek",9,"Fezzan",12
+"359",NA,NA,"Maltese",8,"Gilan",12
+"360",NA,NA,"Navajo",7,"Hadiya",12
+"361",NA,NA,"Arapaho",6,"Indrapura",12
+"362",NA,NA,"Chachapoyan",6,"Jambi",12
+"363",NA,NA,"Cheyenne",6,"Jharkhand",12
+"364",NA,NA,"Fon",6,"Kale",12
+"365",NA,NA,"Karen",6,"Kandy",12
+"366",NA,NA,"Cornish",3,"Kaqchikel",12
+"367",NA,NA,"",NA,"Maynila",12
+"368",NA,NA,NA,NA,"Mixtec",12
+"369",NA,NA,NA,NA,"Mong Mao",12
+"370",NA,NA,NA,NA,"Montferrat",12
+"371",NA,NA,NA,NA,"Nupe",12
+"372",NA,NA,NA,NA,"Ratanpur",12
+"373",NA,NA,NA,NA,"Teotitlan",12
+"374",NA,NA,NA,NA,"Trebizond",12
+"375",NA,NA,NA,NA,"Tribal land of  Hathawekela",12
+"376",NA,NA,NA,NA,"Tribal land of  Lipan",12
+"377",NA,NA,NA,NA,"Tribal land of  Ojibwe",12
+"378",NA,NA,NA,NA,"Tribal land of  Pawnee",12
+"379",NA,NA,NA,NA,"Urbino",12
+"380",NA,NA,NA,NA,"Venad",12
+"381",NA,NA,NA,NA,"Welayta",12
+"382",NA,NA,NA,NA,"Albania",11
+"383",NA,NA,NA,NA,"Antemoro",11
+"384",NA,NA,NA,NA,"Athens",11
+"385",NA,NA,NA,NA,"Beja",11
+"386",NA,NA,NA,NA,"Blambangan",11
+"387",NA,NA,NA,NA,"Eora",11
+"388",NA,NA,NA,NA,"Epirus",11
+"389",NA,NA,NA,NA,"Fadl",11
+"390",NA,NA,NA,NA,"Goslar",11
+"391",NA,NA,NA,NA,"Guge",11
+"392",NA,NA,NA,NA,"Imagawa",11
+"393",NA,NA,NA,NA,"Kelantan",11
+"394",NA,NA,NA,NA,"Mong Nai",11
+"395",NA,NA,NA,NA,"Mong Pai",11
+"396",NA,NA,NA,NA,"Najd",11
+"397",NA,NA,NA,NA,"Passau",11
+"398",NA,NA,NA,NA,"Prome",11
+"399",NA,NA,NA,NA,"Riga",11
+"400",NA,NA,NA,NA,"Saluzzo",11
+"401",NA,NA,NA,NA,"Sulu",11
+"402",NA,NA,NA,NA,"The Knights",11
+"403",NA,NA,NA,NA,"Toki",11
+"404",NA,NA,NA,NA,"Tribal land of  Cahokia",11
+"405",NA,NA,NA,NA,"Tribal land of  Kispoko",11
+"406",NA,NA,NA,NA,"Tribal land of  Pequot",11
+"407",NA,NA,NA,NA,"Tribal land of  Salish",11
+"408",NA,NA,NA,NA,"Tumbuka",11
+"409",NA,NA,NA,NA,"Wanka",11
+"410",NA,NA,NA,NA,"Wurundjeri",11
+"411",NA,NA,NA,NA,"Auvergne",10
+"412",NA,NA,NA,NA,"Baghelkhand",10
+"413",NA,NA,NA,NA,"Hadoti",10
+"414",NA,NA,NA,NA,"Kamilaroi",10
+"415",NA,NA,NA,NA,"Kikondja",10
+"416",NA,NA,NA,NA,"Mewat",10
+"417",NA,NA,NA,NA,"Nagaur",10
+"418",NA,NA,NA,NA,"Ngapuhi",10
+"419",NA,NA,NA,NA,"Ngati Ranginui",10
+"420",NA,NA,NA,NA,"Ngati Toa",10
+"421",NA,NA,NA,NA,"Oda",10
+"422",NA,NA,NA,NA,"Pahang",10
+"423",NA,NA,NA,NA,"Ramazan",10
+"424",NA,NA,NA,NA,"Rothenburg",10
+"425",NA,NA,NA,NA,"Stadacona",10
+"426",NA,NA,NA,NA,"Tainui",10
+"427",NA,NA,NA,NA,"Tribal land of  Mahican",10
+"428",NA,NA,NA,NA,"Ainu",9
+"429",NA,NA,NA,NA,"Ando",9
+"430",NA,NA,NA,NA,"Ardabil",9
+"431",NA,NA,NA,NA,"Bali",9
+"432",NA,NA,NA,NA,"Burundi",9
+"433",NA,NA,NA,NA,"Busoga",9
+"434",NA,NA,NA,NA,"Chichimeca",9
+"435",NA,NA,NA,NA,"Chokwe",9
+"436",NA,NA,NA,NA,"Cilli",9
+"437",NA,NA,NA,NA,"Date",9
+"438",NA,NA,NA,NA,"Guamar",9
+"439",NA,NA,NA,NA,"Kachar",9
+"440",NA,NA,NA,NA,"Kalundwe",9
+"441",NA,NA,NA,NA,"Karabakh",9
+"442",NA,NA,NA,NA,"Kildare",9
+"443",NA,NA,NA,NA,"Ladakh",9
+"444",NA,NA,NA,NA,"Makuria",9
+"445",NA,NA,NA,NA,"Nassau",9
+"446",NA,NA,NA,NA,"Nyoongah",9
+"447",NA,NA,NA,NA,"Odoyev",9
+"448",NA,NA,NA,NA,"Otomi",9
+"449",NA,NA,NA,NA,"Otomo",9
+"450",NA,NA,NA,NA,"Shammar",9
+"451",NA,NA,NA,NA,"Shimazu",9
+"452",NA,NA,NA,NA,"Shoni",9
+"453",NA,NA,NA,NA,"Takeda",9
+"454",NA,NA,NA,NA,"Theodoro",9
+"455",NA,NA,NA,NA,"Touggourt",9
+"456",NA,NA,NA,NA,"Tribal land of  Chalaghawtha",9
+"457",NA,NA,NA,NA,"Tribal land of  Fox",9
+"458",NA,NA,NA,NA,"Tribal land of  Kaskaskia",9
+"459",NA,NA,NA,NA,"Tribal land of  Shoshone",9
+"460",NA,NA,NA,NA,"Tribal land of  Tuscarora",9
+"461",NA,NA,NA,NA,"Tsutsui",9
+"462",NA,NA,NA,NA,"Amago",8
+"463",NA,NA,NA,NA,"Ansbach",8
+"464",NA,NA,NA,NA,"Attignawantan",8
+"465",NA,NA,NA,NA,"Bishnupur",8
+"466",NA,NA,NA,NA,"Buton",8
+"467",NA,NA,NA,NA,"Dithmarschen",8
+"468",NA,NA,NA,NA,"Djerid",8
+"469",NA,NA,NA,NA,"Gwalior",8
+"470",NA,NA,NA,NA,"Kikuchi",8
+"471",NA,NA,NA,NA,"Kochin",8
+"472",NA,NA,NA,NA,"Madurai",8
+"473",NA,NA,NA,NA,"Mulhouse",8
+"474",NA,NA,NA,NA,"Nanbu",8
+"475",NA,NA,NA,NA,"Ngati Awa",8
+"476",NA,NA,NA,NA,"Nkore",8
+"477",NA,NA,NA,NA,"Onondaga",8
+"478",NA,NA,NA,NA,"Palitana",8
+"479",NA,NA,NA,NA,"Pate",8
+"480",NA,NA,NA,NA,"Perugia",8
+"481",NA,NA,NA,NA,"Rostov",8
+"482",NA,NA,NA,NA,"Samoa",8
+"483",NA,NA,NA,NA,"Sligo",8
+"484",NA,NA,NA,NA,"Thomond",8
+"485",NA,NA,NA,NA,"Tonga",8
+"486",NA,NA,NA,NA,"Trent",8
+"487",NA,NA,NA,NA,"Tyrone",8
+"488",NA,NA,NA,NA,"Ulster",8
+"489",NA,NA,NA,NA,"Anizah",7
+"490",NA,NA,NA,NA,"Ardalan",7
+"491",NA,NA,NA,NA,"Avaria",7
+"492",NA,NA,NA,NA,"Bastar",7
+"493",NA,NA,NA,NA,"Calicut",7
+"494",NA,NA,NA,NA,"Charrua",7
+"495",NA,NA,NA,NA,"East Frisia",7
+"496",NA,NA,NA,NA,"Ennarea",7
+"497",NA,NA,NA,NA,"Hawai'i",7
+"498",NA,NA,NA,NA,"Isshiki",7
+"499",NA,NA,NA,NA,"Ito",7
+"500",NA,NA,NA,NA,"Kaurna",7
+"501",NA,NA,NA,NA,"Kolathunad",7
+"502",NA,NA,NA,NA,"Kono",7
+"503",NA,NA,NA,NA,"Mahican",7
+"504",NA,NA,NA,NA,"Makua",7
+"505",NA,NA,NA,NA,"Navarra",7
+"506",NA,NA,NA,NA,"Ngati Kahungunu",7
+"507",NA,NA,NA,NA,"Oldenburg",7
+"508",NA,NA,NA,NA,"Ormond",7
+"509",NA,NA,NA,NA,"Sarig Yogir",7
+"510",NA,NA,NA,NA,"Tokugawa",7
+"511",NA,NA,NA,NA,"Tribal land of  Potawatomi",7
+"512",NA,NA,NA,NA,"Tupiniquim",7
+"513",NA,NA,NA,NA,"Viti Levu",7
+"514",NA,NA,NA,NA,"Algonquin",6
+"515",NA,NA,NA,NA,"Anhalt",6
+"516",NA,NA,NA,NA,"Attigneenongnahac",6
+"517",NA,NA,NA,NA,"Attiwandaron",6
+"518",NA,NA,NA,NA,"Baglana",6
+"519",NA,NA,NA,NA,"Bamberg",6
+"520",NA,NA,NA,NA,"Bayreuth",6
+"521",NA,NA,NA,NA,"Butuan",6
+"522",NA,NA,NA,NA,"Cahokia",6
+"523",NA,NA,NA,NA,"Cebu",6
+"524",NA,NA,NA,NA,"Chachapoya",6
+"525",NA,NA,NA,NA,"Cheyenne",6
+"526",NA,NA,NA,NA,"Chorti",6
+"527",NA,NA,NA,NA,"Clanricarde",6
+"528",NA,NA,NA,NA,"Coweta",6
+"529",NA,NA,NA,NA,"Dagbon",6
+"530",NA,NA,NA,NA,"Desmond",6
+"531",NA,NA,NA,NA,"Fada N'gourma",6
+"532",NA,NA,NA,NA,"Fox",6
+"533",NA,NA,NA,NA,"Hisn Kayfa",6
+"534",NA,NA,NA,NA,"Huastec",6
+"535",NA,NA,NA,NA,"Ichma",6
+"536",NA,NA,NA,NA,"Jaffna",6
+"537",NA,NA,NA,NA,"Jangladesh",6
+"538",NA,NA,NA,NA,"Jarai",6
+"539",NA,NA,NA,NA,"Kitabatake",6
+"540",NA,NA,NA,NA,"Koho",6
+"541",NA,NA,NA,NA,"Leinster",6
+"542",NA,NA,NA,NA,"Mahafaly",6
+"543",NA,NA,NA,NA,"Mohawk",6
+"544",NA,NA,NA,NA,"Muang Phuan",6
+"545",NA,NA,NA,NA,"Mzab",6
+"546",NA,NA,NA,NA,"Najran",6
+"547",NA,NA,NA,NA,"Naxos",6
+"548",NA,NA,NA,NA,"Ogaadeen",6
+"549",NA,NA,NA,NA,"Ogasawara",6
+"550",NA,NA,NA,NA,"Ojibwe",6
+"551",NA,NA,NA,NA,"Oneota",6
+"552",NA,NA,NA,NA,"Pangasinan",6
+"553",NA,NA,NA,NA,"Pequot",6
+"554",NA,NA,NA,NA,"Potiguara",6
+"555",NA,NA,NA,NA,"Rewa Kantha",6
+"556",NA,NA,NA,NA,"Rhade",6
+"557",NA,NA,NA,NA,"Sadiya",6
+"558",NA,NA,NA,NA,"Satake",6
+"559",NA,NA,NA,NA,"Tapuia",6
+"560",NA,NA,NA,NA,"The Isles",6
+"561",NA,NA,NA,NA,"Tribal land of  Altamaha",6
+"562",NA,NA,NA,NA,"Tribal land of  Apache",6
+"563",NA,NA,NA,NA,"Tribal land of  Blackfoot",6
+"564",NA,NA,NA,NA,"Tribal land of  Caddo",6
+"565",NA,NA,NA,NA,"Tribal land of  Cherokee",6
+"566",NA,NA,NA,NA,"Tribal land of  Hasinai",6
+"567",NA,NA,NA,NA,"Tribal land of  Ichisi",6
+"568",NA,NA,NA,NA,"Tribal land of  Miami",6
+"569",NA,NA,NA,NA,"Tribal land of  Natchitoches",6
+"570",NA,NA,NA,NA,"Tribal land of  Nehiyaw",6
+"571",NA,NA,NA,NA,"Tribal land of  Osage",6
+"572",NA,NA,NA,NA,"Tribal land of  Yokuts",6
+"573",NA,NA,NA,NA,"Tyo",6
+"574",NA,NA,NA,NA,"Utsunomiya",6
+"575",NA,NA,NA,NA,"Wadai",6
+"576",NA,NA,NA,NA,"Wichiyena",6
+"577",NA,NA,NA,NA,"Acoma",5
+"578",NA,NA,NA,NA,"Anilco",5
+"579",NA,NA,NA,NA,"Arendaronon",5
+"580",NA,NA,NA,NA,"Atahachi",5
+"581",NA,NA,NA,NA,"Awngthim",5
+"582",NA,NA,NA,NA,"Bregenz",5
+"583",NA,NA,NA,NA,"Bundelkhand",5
+"584",NA,NA,NA,NA,"Cayuga",5
+"585",NA,NA,NA,NA,"Chanda",5
+"586",NA,NA,NA,NA,"Cherokee",5
+"587",NA,NA,NA,NA,"Chiaha",5
+"588",NA,NA,NA,NA,"Chiba",5
+"589",NA,NA,NA,NA,"Chickasaw",5
+"590",NA,NA,NA,NA,"Chinook",5
+"591",NA,NA,NA,NA,"Choctaw",5
+"592",NA,NA,NA,NA,"Cofitachequi",5
+"593",NA,NA,NA,NA,"Coosa",5
+"594",NA,NA,NA,NA,"Dang",5
+"595",NA,NA,NA,NA,"Erie",5
+"596",NA,NA,NA,NA,"Garjat",5
+"597",NA,NA,NA,NA,"Hathawekela",5
+"598",NA,NA,NA,NA,"Isleta",5
+"599",NA,NA,NA,NA,"Jhalavad",5
+"600",NA,NA,NA,NA,"Joara",5
+"601",NA,NA,NA,NA,"Jumla",5
+"602",NA,NA,NA,NA,"Kalinjar",5
+"603",NA,NA,NA,NA,"Kangra",5
+"604",NA,NA,NA,NA,"Kasihta",5
+"605",NA,NA,NA,NA,"Kaskaskia",5
+"606",NA,NA,NA,NA,"Kaua'i",5
+"607",NA,NA,NA,NA,"Larrakia",5
+"608",NA,NA,NA,NA,"Lenape",5
+"609",NA,NA,NA,NA,"Maldives",5
+"610",NA,NA,NA,NA,"Malgana",5
+"611",NA,NA,NA,NA,"Manipur",5
+"612",NA,NA,NA,NA,"Maui",5
+"613",NA,NA,NA,NA,"Mianjin",5
+"614",NA,NA,NA,NA,"Mikmaq",5
+"615",NA,NA,NA,NA,"Natchitoches",5
+"616",NA,NA,NA,NA,"O'ahu",5
+"617",NA,NA,NA,NA,"Offaly",5
+"618",NA,NA,NA,NA,"Ohkay Owingeh",5
+"619",NA,NA,NA,NA,"Oneida",5
+"620",NA,NA,NA,NA,"Osheaga",5
+"621",NA,NA,NA,NA,"Penobscot",5
+"622",NA,NA,NA,NA,"Porbandar",5
+"623",NA,NA,NA,NA,"Powhatan",5
+"624",NA,NA,NA,NA,"Quizquiz",5
+"625",NA,NA,NA,NA,"Ryukyu",5
+"626",NA,NA,NA,NA,"Salish",5
+"627",NA,NA,NA,NA,"Saxe-Lauenburg",5
+"628",NA,NA,NA,NA,"Tahontaenrat",5
+"629",NA,NA,NA,NA,"Tionontate",5
+"630",NA,NA,NA,NA,"Tiwi",5
+"631",NA,NA,NA,NA,"Tribal land of  Mississage",5
+"632",NA,NA,NA,NA,"Tuscarora",5
+"633",NA,NA,NA,NA,"Tyrconnell",5
+"634",NA,NA,NA,NA,"Vanua Levu",5
+"635",NA,NA,NA,NA,"Wampanoag",5
+"636",NA,NA,NA,NA,"Wenro",5
+"637",NA,NA,NA,NA,"Yolngu",5
+"638",NA,NA,NA,NA,"Zia",5
+"639",NA,NA,NA,NA,"Janjiro",4
+"640",NA,NA,NA,NA,"Keonhjar",4
+"641",NA,NA,NA,NA,"Mississage",4
+"642",NA,NA,NA,NA,"Munster",4
+"643",NA,NA,NA,NA,"Navajo",4
+"644",NA,NA,NA,NA,"Pawnee",4
+"645",NA,NA,NA,NA,"Potawatomi",4
+"646",NA,NA,NA,NA,"Seneca",4
+"647",NA,NA,NA,NA,"So",4
+"648",NA,NA,NA,NA,"Tribal land of  Ottawa",4
+"649",NA,NA,NA,NA,"Tupinamba",4
+"650",NA,NA,NA,NA,"Waitaha",4
+"651",NA,NA,NA,NA,"Abenaki",3
+"652",NA,NA,NA,NA,"Abihka",3
+"653",NA,NA,NA,NA,"Altamaha",3
+"654",NA,NA,NA,NA,"Apache",3
+"655",NA,NA,NA,NA,"Arapaho",3
+"656",NA,NA,NA,NA,"Arawak",3
+"657",NA,NA,NA,NA,"Assiniboine",3
+"658",NA,NA,NA,NA,"Blackfoot",3
+"659",NA,NA,NA,NA,"Caddo",3
+"660",NA,NA,NA,NA,"Carib",3
+"661",NA,NA,NA,NA,"Casqui",3
+"662",NA,NA,NA,NA,"Chalaghawtha",3
+"663",NA,NA,NA,NA,"Chavchuveny",3
+"664",NA,NA,NA,NA,"Chisca",3
+"665",NA,NA,NA,NA,"Chukchi",3
+"666",NA,NA,NA,NA,"Comanche",3
+"667",NA,NA,NA,NA,"Cree",3
+"668",NA,NA,NA,NA,"Dahomey",3
+"669",NA,NA,NA,NA,"Doti",3
+"670",NA,NA,NA,NA,"Etowah",3
+"671",NA,NA,NA,NA,"Garhwal",3
+"672",NA,NA,NA,NA,"Guarani",3
+"673",NA,NA,NA,NA,"Haida",3
+"674",NA,NA,NA,NA,"Hasinai",3
+"675",NA,NA,NA,NA,"Ichisi",3
+"676",NA,NA,NA,NA,"Idar",3
+"677",NA,NA,NA,NA,"Innu",3
+"678",NA,NA,NA,NA,"Jaisalmer",3
+"679",NA,NA,NA,NA,"Jeypore",3
+"680",NA,NA,NA,NA,"Kalahandi",3
+"681",NA,NA,NA,NA,"Kamchadals",3
+"682",NA,NA,NA,NA,"Khodynt",3
+"683",NA,NA,NA,NA,"Kiowa",3
+"684",NA,NA,NA,NA,"Kispoko",3
+"685",NA,NA,NA,NA,"Kumaon",3
+"686",NA,NA,NA,NA,"Lakota",3
+"687",NA,NA,NA,NA,"Lau",3
+"688",NA,NA,NA,NA,"Lipan",3
+"689",NA,NA,NA,NA,"Maliseet",3
+"690",NA,NA,NA,NA,"Mapuche",3
+"691",NA,NA,NA,NA,"Mescalero",3
+"692",NA,NA,NA,NA,"Miami",3
+"693",NA,NA,NA,NA,"Miskito",3
+"694",NA,NA,NA,NA,"Nakawe",3
+"695",NA,NA,NA,NA,"Natchez",3
+"696",NA,NA,NA,NA,"Nehiyaw",3
+"697",NA,NA,NA,NA,"Osage",3
+"698",NA,NA,NA,NA,"Ottawa",3
+"699",NA,NA,NA,NA,"Pacaha",3
+"700",NA,NA,NA,NA,"Parlakhimidi",3
+"701",NA,NA,NA,NA,"Peoria",3
+"702",NA,NA,NA,NA,"Pima",3
+"703",NA,NA,NA,NA,"Satapo",3
+"704",NA,NA,NA,NA,"Shoshone",3
+"705",NA,NA,NA,NA,"Sioux",3
+"706",NA,NA,NA,NA,"Sirmur",3
+"707",NA,NA,NA,NA,"Susquehannock",3
+"708",NA,NA,NA,NA,"Tairona",3
+"709",NA,NA,NA,NA,"Tribal land of  Haida",3
+"710",NA,NA,NA,NA,"Tribal land of  Lakota",3
+"711",NA,NA,NA,NA,"Tribal land of  Mohawk",3
+"712",NA,NA,NA,NA,"Tribal land of  Navajo",3
+"713",NA,NA,NA,NA,"Tribal land of  Sioux",3
+"714",NA,NA,NA,NA,"Tribal land of  Wichiyena",3
+"715",NA,NA,NA,NA,"Tripura",3
+"716",NA,NA,NA,NA,"Wichita",3
+"717",NA,NA,NA,NA,"Yanuwa",3
+"718",NA,NA,NA,NA,"Yaqui",3
+"719",NA,NA,NA,NA,"Yas",3
+"720",NA,NA,NA,NA,"Yokuts",3
+"721",NA,NA,NA,NA,"Zuni",3
+"722",NA,NA,NA,NA,"",NA

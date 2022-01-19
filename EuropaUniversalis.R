@@ -27,10 +27,15 @@ ecopolOwner <- ecopol[c(3,11)]
 owner <- aggregate(ecopolOwner$Development, by=list(Category=ecopolOwner$"Owner (1444)"), FUN=sum)
 owner <- owner[order(owner$x,decreasing = TRUE),]
 
-# ecopolTrade <- ecopol[c(3,8)]
-# trade <- aggregate(ecopolTrade$Development, by=list(Category=ecopolTrade$"Trade node"), FUN=sum)
-# trade <- trade[order(trade$x,decreasing = TRUE),]
+finalData <- merge(data.frame(cultureGroupPower, row.names = NULL), data.frame(culturePower, row.names = NULL), by = 0, all = TRUE)
+finalData <- finalData[order(finalData$x.y, decreasing = TRUE),]
+finalData <- merge(data.frame(finalData, row.names = NULL), data.frame(owner, row.names = NULL), by = 0, all = TRUE)[c(-1,-2)]
+finalData <- finalData[order(finalData$x.y, decreasing = TRUE),]
+rownames(finalData) <- 1:nrow(finalData)
+names(finalData) <- c('Culture Group','Total Development','Culture','Total Development','Country','Total Development')
 
-write.csv(culturePower, file = "devByCulture.csv")
-write.csv(cultureGroupPower, file = "devByCultureGroup.csv")
-write.csv(owner, file = "devByCountry.csv")
+write.csv(finalData, file = "finalData.csv")
+# write.csv(culturePower, file = "devByCulture.csv")
+# write.csv(cultureGroupPower, file = "devByCultureGroup.csv")
+# write.csv(owner, file = "devByCountry.csv")
+
