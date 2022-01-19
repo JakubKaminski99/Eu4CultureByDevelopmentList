@@ -28,3 +28,7 @@ cultureGroupPower <- cultureGroupPower[order(cultureGroupPower$x,decreasing = TR
 ecopolOwner <- ecopol[c(3,11)]
 owner <- aggregate(ecopolOwner$Development, by=list(Category=ecopolOwner$"Owner (1444)"), FUN=sum)
 owner <- owner[order(owner$x,decreasing = TRUE),]
+
+ecopolTrade <- ecopol[c(3,8)]
+trade <- aggregate(ecopolTrade$Development, by=list(Category=ecopolTrade$"Trade node"), FUN=sum)
+trade <- trade[order(trade$x,decreasing = TRUE),]
