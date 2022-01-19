@@ -7,17 +7,15 @@ library(XML)
 library(rvest)
 
 # link <- readline(prompt = "Enter page link:  ")
-
 page <- read_html("https://eu4.paradoxwikis.com/Economic_list_of_provinces")
 tables <- page %>% html_table(fill=TRUE)
 tableE <- tables[[1]]
 page <- read_html("https://eu4.paradoxwikis.com/Political_list_of_provinces")
 tables <- page %>% html_table(fill=TRUE)
 tableP <- tables[[1]]
-
 ecopol <- merge(tableE, tableP, by=c("ID")) 
-ecopolCulture <- ecopol[c(3,13)]
 
+ecopolCulture <- ecopol[c(3,13)]
 culturePower <- aggregate(ecopolCulture$Development, by=list(Category=ecopolCulture$Culture), FUN=sum)
 culturePower <- culturePower[order(culturePower$x,decreasing = TRUE),]
 
@@ -29,6 +27,10 @@ ecopolOwner <- ecopol[c(3,11)]
 owner <- aggregate(ecopolOwner$Development, by=list(Category=ecopolOwner$"Owner (1444)"), FUN=sum)
 owner <- owner[order(owner$x,decreasing = TRUE),]
 
-ecopolTrade <- ecopol[c(3,8)]
-trade <- aggregate(ecopolTrade$Development, by=list(Category=ecopolTrade$"Trade node"), FUN=sum)
-trade <- trade[order(trade$x,decreasing = TRUE),]
+# ecopolTrade <- ecopol[c(3,8)]
+# trade <- aggregate(ecopolTrade$Development, by=list(Category=ecopolTrade$"Trade node"), FUN=sum)
+# trade <- trade[order(trade$x,decreasing = TRUE),]
+
+write.csv(culturePower, file = "devByCulture.csv")
+write.csv(cultureGroupPower, file = "devByCultureGroup.csv")
+write.csv(owner, file = "devByCountry.csv")
