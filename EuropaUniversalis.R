@@ -7,7 +7,7 @@ library(XML)
 library(rvest)
 
 # link <- readline(prompt = "Enter page link: ")
-# tak
+
 page <- read_html("https://eu4.paradoxwikis.com/Economic_list_of_provinces")
 tables <- page %>% html_table(fill=TRUE)
 tableE <- tables[[1]]
